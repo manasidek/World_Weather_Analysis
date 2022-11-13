@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+Weather_Database/WeatherPy_Data.png# World_Weather_Analysis
 
 ## Overview of the Project
 
@@ -16,7 +16,7 @@
 
 ### Step 1 of Analysis: Collect the Data
 
-- The script for the analysis is: [Weather_Database]()
+- The script for the analysis is: [Weather_Database](https://github.com/manasidek/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb)
 
 - Using the OpenWeatherMap API to collect the current weather data from each unique city and create a dataframe.
 
@@ -29,37 +29,37 @@
     6.Wind speed
     7.Current Weather
 
-- Export the DataFrame as a CSV file.The link to the csv is:[Weather_Database]()
+- Export the DataFrame as a CSV file.The link to the csv is: [Weather_Database](https://github.com/manasidek/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
 
-![WeatherPy_Data]()
+![WeatherPy_Data](https://github.com/manasidek/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Data.png)
 
 ### Step 2 of Analysis: Exploratory Analysis with Visualization
 
-- The script for the analysis is: [Vacation_Search]()
+- The script for the analysis is: [Vacation_Search](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb)
 
 - Employ input statements to retrieve customer weather preferences.
 
-![Customer_input]()
+![Customer_input](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Search/Customer_inputs.png)
 
 - These preferences help in identifying potential travel destinations and nearby hotels and create a map with pop-up markers.
 
-![Cities _For_Travel]()
+![Cities _For_Travel](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Search/Cities_For_Travel.png)
 
-![Hotels_Cities_Customer]()
+![Hotels_Cities_Customer](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Search/Hotels_Cities_Customer.png)
 
-![WeatherPy_Vacation_Map]()
+![WeatherPy_Vacation_Map](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_Vacation_Map.png)
 
 ### Step 3 of Analysis: Travel Itinerary Map
 
-- The script for the analysis is: [Vacation_Itinerary]()
+- The script for the analysis is: [Vacation_Itinerary](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
 - Using the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
 
-![Vacation_Destinations]()
+![Vacation_Destinations](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Destinations.png)
 
 - Creating a map with a pop-up marker for each city on the itinerary.
 
-![WeatherPy_Travel]()
+![WeatherPy_Travel](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-![](WeatherPy_Travel_Map_Marker)
+![WeatherPy_Travel_Map_Marker](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
