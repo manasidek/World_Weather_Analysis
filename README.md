@@ -1,4 +1,4 @@
-Weather_Database/WeatherPy_Data.png# World_Weather_Analysis
+# World_Weather_Analysis
 
 ## Overview of the Project
 
