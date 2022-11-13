@@ -1,1 +1,65 @@
 # World_Weather_Analysis
+
+## Overview of the Project
+
+- The purpose of this analysis is to help PlanMyTrip to find and recommend ideal hotels based on clients' weather preferences.
+
+## Resources
+
+- Data Sources:
+    1. https://openweathermap.org/
+    2. https://developers.google.com/maps/
+
+- Software: Anaconda 22.9.0, Python 3.7.6, Jupyter Notebook 6.4.12
+
+## Results
+
+### Step 1 of Analysis: Collect the Data
+
+- The script for the analysis is: [Weather_Database]()
+
+- Using the OpenWeatherMap API to collect the current weather data from each unique city and create a dataframe.
+
+- The list consists of the following coloumns 
+    1.City, country, and date
+    2.Latitude and longitude
+    3.aximum temperature
+    4.umidity
+    5.Cloudiness
+    6.Wind speed
+    7.Current Weather
+
+- Export the DataFrame as a CSV file.The link to the csv is:[Weather_Database]()
+
+![WeatherPy_Data]()
+
+### Step 2 of Analysis: Exploratory Analysis with Visualization
+
+- The script for the analysis is: [Vacation_Search]()
+
+- Employ input statements to retrieve customer weather preferences.
+
+![Customer_input]()
+
+- These preferences help in identifying potential travel destinations and nearby hotels and create a map with pop-up markers.
+
+![Cities _For_Travel]()
+
+![Hotels_Cities_Customer]()
+
+![WeatherPy_Vacation_Map]()
+
+### Step 3 of Analysis: Travel Itinerary Map
+
+- The script for the analysis is: [Vacation_Itinerary]()
+
+- Using the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
+
+![Vacation_Destinations]()
+
+- Creating a map with a pop-up marker for each city on the itinerary.
+
+![WeatherPy_Travel]()
+
+![](WeatherPy_Travel_Map_Marker)
+
