@@ -18,18 +18,9 @@
 
 - The script for the analysis is: [Weather_Database](https://github.com/manasidek/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb)
 
-- Using the OpenWeatherMap API to collect the current weather data from each unique city and create a dataframe.
+- Using the OpenWeatherMap API, collected the current weather data from each unique city and created a dataframe.
 
-- The list consists of the following coloumns 
-    1.City, country, and date
-    2.Latitude and longitude
-    3.aximum temperature
-    4.umidity
-    5.Cloudiness
-    6.Wind speed
-    7.Current Weather
-
-- Export the DataFrame as a CSV file.The link to the csv is: [Weather_Database](https://github.com/manasidek/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
+- Export the DataFrame as a CSV file. The link to the csv is: [Weather_Database](https://github.com/manasidek/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
 
 ![WeatherPy_Data](https://github.com/manasidek/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Data.png)
 
