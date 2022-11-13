@@ -61,5 +61,5 @@ Weather_Database/WeatherPy_Data.png# World_Weather_Analysis
 
 ![WeatherPy_Travel](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-![WeatherPy_Travel_Map_Marker](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+![WeatherPy_Travel_Map_Marker](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
