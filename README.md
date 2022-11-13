@@ -44,11 +44,11 @@
 
 - The script for the analysis is: [Vacation_Itinerary](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
-- Using the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
+- Using the Google Directions API, created a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
 
 ![Vacation_Destinations](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Destinations.png)
 
-- Creating a map with a pop-up marker for each city on the itinerary.
+- Created a map with a pop-up marker for each city on the itinerary.
 
 ![WeatherPy_Travel](https://github.com/manasidek/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
